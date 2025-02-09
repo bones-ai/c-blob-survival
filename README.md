@@ -3,6 +3,7 @@ A small chaotic vampire-survivors inspired game written in C and raylib. It uses
 
 # Read this
 - You won't readily be able to run the code because I'm not allowed to redistribute some of the assets used in the game
+- The entire game is within a single `game.c` file, I use `:` tags to quickly jump between different sections, I find this to be more effective than splitting it into separate files, and there's also some `// MARK: ` that helps if you're using vscode
 - This is the trimmed down version of readme file I used to document my todo and other things while building the game
 - Refer to the end of the file for credits and links to assets and other resources I used
 - Use the `z_build.sh` to run the game
