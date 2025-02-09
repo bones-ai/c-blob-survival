@@ -1,11 +1,13 @@
 # Blob Survival
 A small chaotic vampire-survivors inspired game written in C and raylib. It uses a quad-tree for effecient collisions and is capable of handling thousands of enemies.
 
+You can play a wasm build of the game here - [https://bones-ai.itch.io/blob-survival](https://bones-ai.itch.io/blob-survival)
+
 ![untitled2(3)](https://github.com/user-attachments/assets/417b7127-6406-4429-8f7a-973c52bdc935)
 
 
 # Read this
-- You won't readily be able to run the code because I'm not allowed to redistribute some of the assets used in the game
+- You won't readily be able to run the code because I'm not allowed to redistribute some of the assets used in the game, i've put in some placeholder assets for you to replace.
 - The entire game is within a single `game.c` file, I use `:` tags to quickly jump between different sections, I find this to be more effective than splitting it into separate files, and there's also some `// MARK: ` that helps if you're using vscode
 - This is the trimmed down version of readme file I used to document my todo and other things while building the game
 - Refer to the end of the file for credits and links to assets and other resources I used
